@@ -29,8 +29,8 @@ li {
 figure {
   color: gold;
   background-color: rgba(0, 0, 0, 0.445); 
+  font-family: 'Times New Roman', Times, serif;
 }
-
 
 .description,.steps {
   background-color: rgba(255, 217, 0, 0.719);
@@ -43,4 +43,13 @@ figure {
 
 figcaption {
   text-align: center;
+  font-style: italic;
+}
+
+h1, h2 {
+  font-family: 'Brush Script MT';
+}
+
+h2 {
+  font-size: 30px ;
 }
